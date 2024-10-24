@@ -33,6 +33,11 @@ payload:
   - DOMAIN-SUFFIX,bitcoinvisuals.com
   - DOMAIN-SUFFIX,bitderiv.com
   - DOMAIN-SUFFIX,bitfinex.com
+  - DOMAIN-SUFFIX,bitget.com
+  - DOMAIN-SUFFIX,bitget.fit
+  - DOMAIN-SUFFIX,bitget.site
+  - DOMAIN-SUFFIX,bitget.online
+  - DOMAIN-SUFFIX,bitgetapp.com
   - DOMAIN-SUFFIX,bitflyer.com
   - DOMAIN-SUFFIX,bitflyer.jp
   - DOMAIN-SUFFIX,bithumb.com
